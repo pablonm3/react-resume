@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Pablo Nicolas Marino",
+    "label": "Full Stack Web Developer & Entrepreneur",
+    "picture": "./profilePhoto.jpeg",
+    "email": "pablo-n-m@hotmail.com",
+    "phone": "+5491130530305",
+    "birthDate":"3 of May, 1995",
+    "website": "http://freaksauce.com",
+    "summary": {"text":"I had been working as a Web developer by 2 years now, my first formal job was at Accenture where i worked with Java and Sring Web, Hibernate Frameworks. I spent the last year developing a learning platform built with React.js, Node.js, MongoDB and Amazon Web Services(These are my favourite technologies). I love to try new things and can guarantee I'll give a 100% in everything I do",
+                "name": "About me"},
+    "location": {
+      "city": "Haedo",
+      "region": "Buenos Aires",
+      "countryCode":"Argentina"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/pablonm/"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/pablonm3"
+      },
+      {
+        "network": "Stackoverflow",
+        "url": "https://stackoverflow.com/users/5332229/pablo-marino"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Work experience",
+      "company": "Accenture",
+      "position": "Java EE Full Stack Web Developer",
+      "website": "https://accenture.com",
+      "startDate": "2016-06-21",
+      "endDate": "2017-04-01",
+      "summary": "My main responsabilities where the development of Web Aplications(Back-end and Front-end), Java Batch processes, shell Scripting, ticket management and maintainance of different development enviromments for billing systems of Telecom Argentina Group",
+      "highlights": []
+    },
+    {
+      "company": "FlashcardX",
+      "position": "Co-Founder",
+      "website": "https://flashcardx.co",
+      "startDate": "2016-12-01",
+      "endDate":"",
+      "summary": "FlashcardX is a learning platform based on the creation of multimedia flashcards, the project is currently under active development and the next December seventh we'll be launching the MVP, the project is developed using: React.js, Node.js, MongoDB and Amazon Web Services. This project was a finalist in the program 'Makers In Garage' organized By: Lagash, Intel, Amazon y Buenos Aires City Goverment. I am the leader of this project, currently working Full Time at it with a team of 2 more people. For more info visit: <a href='https://www.flashcardx.co'>www.flashcardx.co</a>",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "name": "Education",
+      "institution": "National University of La Matanza",
+      "area": "Engineering",
+      "studyType": "Informatic",
+      "startDate": "2014-04-01",
+      "endDate": "2020-07-01",
+      "description": "Informatic Engineering Degree. Current GPA > 7 (where 10 is max)"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "jQuery",
+        "Node.js",
+        "SQL",
+        "React.js",
+        "MongoDB",
+        "JAVA EE",
+        "Amazon Web Services",
+        "UNIX",
+        "GIT"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name":"Languages",
+      "language": "English",
+      "fluency": "Upper-Intermediate level. I can talk with any native speaker at a fluent level"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Pablo Nicolas Marino",
+    "label": "Desarrollador Web Full Stack & Emprendedor",
+    "picture": "./profilePhoto.jpeg",
+    "email": "pablo-n-m@hotmail.com",
+    "phone": "+5491130530305",
+    "birthDate":"3 de Mayo, 1995",
+    "website": "http://freaksauce.com",
+    "summary": {"text":"Hace dos años que soy desarrollador web, mi primer trabajo fue en Accenture donde trabajamos con Java Y los frameworks: Hibernate y Spring web. Durante el ultimo año estuve trabajando en el desarrollo de una plataforma de aprendizaje hecha en React.js, Node.js, MongoDB y Amazon Web Services(las cuales son mis tecnologias preferidas). Me encanta probar cosas nuevas y puedo garantizar que voy a dar el 100% en todo lo que haga",
+                "name": "Acerca de mí"},
+    "location": {
+      "city": "Haedo",
+      "region": "Buenos Aires",
+      "countryCode":"Argentina"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/pablonm/"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/pablonm3"
+      },
+      {
+        "network": "Stackoverflow",
+        "url": "https://stackoverflow.com/users/5332229/pablo-marino"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Experiencia laboral",
+      "company": "Accenture",
+      "position": "Desarrollador Web Full Stack Java EE Jr",
+      "website": "https://accenture.com",
+      "startDate": "2016-06-21",
+      "endDate": "2017-04-01",
+      "summary": "Mis tareas principales fueron Desarrollo de aplicaciones web(Back-end y front-end), procesos batch en java, shell Scripting, gestion de tickets y migraciones entre ambientes para sistemas de facturacion del grupo Telecom Argentina.SA",
+      "highlights": []
+    },
+    {
+      "company": "FlashcardX",
+      "position": "Co-Fundador",
+      "website": "https://flashcardx.co",
+      "startDate": "2016-12-01",
+      "endDate":"",
+      "summary": "FlashcardX es una plataforma de aprendizaje basada en la creacion de tarjetas didacticas multimedia, el proyecto se encuentra bajo desarrollo activo y el 7 de diciembre proximo estaremos lanzando el MVP, proyecto desarrollado en React.js, Node.js y MongoDB finalista del programa Makers In Garage organizado por: Lagash, Intel, Amazon y GCBA. Mi rol es el de lider del proyecto actualmente trabajando full time en el mismo junto a dos integrantes mas. Para mas info visita: <a href='https://www.flashcardx.co'>www.flashcardx.co</a>",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "name": "Educación",
+      "institution": "Universidad Nacional de La Matanza",
+      "area": "Informatica",
+      "studyType": "Ingenieria",
+      "startDate": "2014-04-01",
+      "endDate": "2020-07-01",
+      "description": "Actualmente cursando el tercer año de la carrera, con un promedio mayor a 7"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Habilidades",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "jQuery",
+        "Node.js",
+        "SQL",
+        "React.js",
+        "MongoDB",
+        "JAVA EE",
+        "Amazon Web Services",
+        "UNIX",
+        "GIT"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name":"Idiomas",
+      "language": "Ingles",
+      "fluency": "Nivel intermedio-alto, es decir puedo hablar con cualquier hablante nativo sin problemas"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
