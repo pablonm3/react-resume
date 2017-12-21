@@ -46,7 +46,16 @@
       "website": "https://flashcardx.co",
       "startDate": "2016-12-01",
       "endDate":"",
-      "summary": "FlashcardX is a learning platform based on the creation of multimedia flashcards, the project is currently under active development and the next December seventh we'll be launching the MVP, the project is developed using: React.js, Node.js, MongoDB and Amazon Web Services. This project was a finalist in the program 'Makers In Garage' organized By: Lagash, Intel, Amazon y Buenos Aires City Goverment. I am the leader of this project, currently working Full Time at it with a team of 2 more people. For more info visit: <a href='https://www.flashcardx.co'>www.flashcardx.co</a>",
+      "summary": "FlashcardX is an open source learning platform based on the creation of multimedia flashcards, the project is currently under active development and on december 2017 we launched the MVP, the project is developed mainly using: React.js, Node.js, MongoDB and Amazon Web Services. This project was a finalist in the program 'Makers In Garage' organized By: Lagash, Intel, Amazon and Buenos Aires City Goverment. I am the leader of this project, currently working Full Time at it with a team of 2 more people. For more info visit: <a href='https://www.flashcardx.co'>www.flashcardx.co</a>",
+      "highlights": []
+    },
+    {
+      "company": "The Cactus Group",
+      "position": "Full stack developer",
+      "website": "http://www.cactus.ws",
+      "startDate": "2017-12-01",
+      "endDate":"",
+      "summary": "Working part time as full stack developer for a system(web and api)wich tracks Investemnts Funds movements for the Argentinian Goverment. Here i work with the technologies: Node.js, React.js and MS-SQL Server",
       "highlights": []
     }
   ],
@@ -80,7 +89,8 @@
         "JAVA EE",
         "Amazon Web Services",
         "UNIX",
-        "GIT"
+        "GIT",
+        "REDIS"
       ]
     }
   ],

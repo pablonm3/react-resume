@@ -46,7 +46,16 @@
       "website": "https://flashcardx.co",
       "startDate": "2016-12-01",
       "endDate":"",
-      "summary": "FlashcardX es una plataforma de aprendizaje basada en la creacion de tarjetas didacticas multimedia, el proyecto se encuentra bajo desarrollo activo y el 7 de diciembre proximo estaremos lanzando el MVP, proyecto desarrollado en React.js, Node.js y MongoDB finalista del programa Makers In Garage organizado por: Lagash, Intel, Amazon y GCBA. Mi rol es el de lider del proyecto actualmente trabajando full time en el mismo junto a dos integrantes mas. Para mas info visita: <a href='https://www.flashcardx.co'>www.flashcardx.co</a>",
+      "summary": "FlashcardX es una plataforma de aprendizaje open source basada en la creacion de tarjetas didacticas multimedia, el proyecto se encuentra bajo desarrollo activo y el 7 de diciembre proximo estaremos lanzando el MVP, proyecto desarrollado en React.js, Node.js y MongoDB finalista del programa Makers In Garage organizado por: Lagash, Intel, Amazon y GCBA. Mi rol es el de lider del proyecto actualmente trabajando full time en el mismo junto a dos integrantes mas. Para mas info visita: <a href='https://www.flashcardx.co'>www.flashcardx.co</a>",
+      "highlights": []
+    },
+    {
+      "company": "The Cactus Group",
+      "position": "Full stack developer",
+      "website": "http://www.cactus.ws",
+      "startDate": "2017-12-01",
+      "endDate":"",
+      "summary": "Trabajando part-time como desarrollador full stack para un sistema(API y web) de seguimiendo de fondos de inversion utilizado por el gobierno Argentino. Aqui trabajamos con las tecnologias: Node.js, React.js y MS-SQL Server",
       "highlights": []
     }
   ],
@@ -80,7 +89,8 @@
         "JAVA EE",
         "Amazon Web Services",
         "UNIX",
-        "GIT"
+        "GIT",
+        "REDIS"
       ]
     }
   ],

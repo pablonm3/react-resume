@@ -42,7 +42,7 @@
     "path-exists": "2.1.0",
     "postcss-loader": "1.0.0",
     "promise": "7.1.1",
-    "c": "^0.3.0",
+    "react-dev-utils": "^0.3.0",
     "recursive-readdir": "2.1.0",
     "resolve-url-loader": "^1.6.0",
     "rimraf": "2.5.4",

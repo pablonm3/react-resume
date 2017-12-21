@@ -21,7 +21,7 @@ const WorkItem = props => {
 
     return (
         <div className="workItem">
-          <h3>{props.workItemData.position}, <span>{props.workItemData.company}</span></h3>
+          <h3>{props.workItemData.position}, <span><a target="_blank" href={props.workItemData.website}>{props.workItemData.company}</a></span></h3>
           <p className="workDates">{getWorkDates()}</p>
           <p dangerouslySetInnerHTML={{__html: props.workItemData.summary}} />
     
